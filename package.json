@@ -1,0 +1,14 @@
+{
+  "name": "infected-module",
+  "version": "1.0.0",
+  "description": "This is a fake infected module. It is a POC, do not use it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brainlulz",
+  "license": "ISC",
+  "dependencies": {
+    "malicious-module": "^1.0.1"
+  }
+}
